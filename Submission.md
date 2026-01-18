@@ -1,5 +1,7 @@
 ### 🛠️ How it Works: The Achievement Vault
 
+While many vaults are built for simple storage, the Achievement Vault is a creative application of 'Decentralized Discipline.' It uses the unchangeable nature of the Stellar Ledger to help users overcome impulsive spending by locking funds behind both a financial milestone and a time-based deadline.
+
 Think of this contract as a digital piggy bank with a brain. Here is the technical breakdown for anyone joining the project:
 
 * **The Big Idea:** We aren't just storing money; we are enforcing a goal. The contract is designed to stay "locked" until you hit a specific date AND a specific savings target.
