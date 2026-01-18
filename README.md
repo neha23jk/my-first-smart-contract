@@ -40,6 +40,7 @@ The contract acts as a secure, on-chain vault for saving assets (like XLM or USD
 ## 🚀 Deployed Link
 * **Network:** Stellar Testnet
 * **Contract ID:** `CBEYHXY22YKX6KPNGC3XU7CH2JG6V7XXWGS2ALZFBRDWQUFTLKYBIVMK`
+* **Wasm Hash:** `f6c89853ddfb854c8b19821fb16ecac8a4ae50852bb5cc900fb4828eb73b84cf`
 * **Stellar Expert:** [View Contract on Stellar Expert](https://stellar.expert/explorer/testnet/tx/965e9ff239c8bb99542e4d2609be975b30b5f3958ab0575cf1f6a63f0afb353e)
 * **Stellar Lab:** [View Contract on Stellar Lab](https://lab.stellar.org/r/testnet/contract/CBEYHXY22YKX6KPNGC3XU7CH2JG6V7XXWGS2ALZFBRDWQUFTLKYBIVMK).   
 
